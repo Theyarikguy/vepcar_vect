@@ -1,0 +1,281 @@
+synset_id,word1,gloss1,word2,gloss2,similarity,in_top_n,above_threshold
+2,abei,"грустный, жалобный, печальный",atkal,"грустный, печальный, тоскливый",0.5265,False,False
+2,abei,"грустный, жалобный, печальный",igävy,тоскливый,0.6277,True,False
+2,abei,"грустный, жалобный, печальный",ilotoi,"грустный, унылый, невесёлый",0.38,False,False
+2,atkal,"грустный, печальный, тоскливый",igävy,тоскливый,0.4835,False,False
+2,atkal,"грустный, печальный, тоскливый",ilotoi,"грустный, унылый, невесёлый",0.4317,False,False
+2,igävy,тоскливый,ilotoi,"грустный, унылый, невесёлый",0.4371,False,False
+3,ammuine,"давний, давнишний, старинный",ennevahnalline,старинный; древний,0.3909,False,False
+3,ammuine,"давний, давнишний, старинный",igäine,давнишний,0.363,False,False
+3,ammuine,"давний, давнишний, старинный",ijäkäs,пожилой,0.4125,False,False
+3,ammuine,"давний, давнишний, старинный",ilmanigäine,"старинный, давнишний",0.2983,False,False
+3,ammuine,"давний, давнишний, старинный",kulu,"cтарый, поношенный, подержанный",0.2997,False,False
+3,ammuine,"давний, давнишний, старинный",kulunuh,изношенный,0.345,False,False
+3,ammuine,"давний, давнишний, старинный",laho,ветхий,0.4647,False,False
+3,ammuine,"давний, давнишний, старинный",ruavas,"cтарый, пожилой",0.373,False,False
+3,ammuine,"давний, давнишний, старинный",vahnanaigaine,старинный,0.3259,False,False
+3,ammuine,"давний, давнишний, старинный",vahnu,"cтарый, старинный",0.4498,False,False
+3,ennevahnalline,старинный; древний,igäine,давнишний,0.2667,False,False
+3,ennevahnalline,старинный; древний,ijäkäs,пожилой,0.1926,False,False
+3,ennevahnalline,старинный; древний,ilmanigäine,"старинный, давнишний",0.3516,False,False
+3,ennevahnalline,старинный; древний,kulu,"cтарый, поношенный, подержанный",0.2937,False,False
+3,ennevahnalline,старинный; древний,kulunuh,изношенный,0.3535,False,False
+3,ennevahnalline,старинный; древний,laho,ветхий,0.4911,False,False
+3,ennevahnalline,старинный; древний,ruavas,"cтарый, пожилой",0.3058,False,False
+3,ennevahnalline,старинный; древний,vahnanaigaine,старинный,0.587,False,False
+3,ennevahnalline,старинный; древний,vahnu,"cтарый, старинный",0.5326,False,False
+3,igäine,давнишний,ijäkäs,пожилой,0.3577,False,False
+3,igäine,давнишний,ilmanigäine,"старинный, давнишний",0.3927,False,False
+3,igäine,давнишний,kulu,"cтарый, поношенный, подержанный",0.3116,False,False
+3,igäine,давнишний,kulunuh,изношенный,0.3349,False,False
+3,igäine,давнишний,laho,ветхий,0.273,False,False
+3,igäine,давнишний,ruavas,"cтарый, пожилой",0.3033,False,False
+3,igäine,давнишний,vahnanaigaine,старинный,0.1466,False,False
+3,igäine,давнишний,vahnu,"cтарый, старинный",0.313,False,False
+3,ijäkäs,пожилой,ilmanigäine,"старинный, давнишний",0.3331,False,False
+3,ijäkäs,пожилой,kulu,"cтарый, поношенный, подержанный",0.312,False,False
+3,ijäkäs,пожилой,kulunuh,изношенный,0.2679,False,False
+3,ijäkäs,пожилой,laho,ветхий,0.2433,False,False
+3,ijäkäs,пожилой,ruavas,"cтарый, пожилой",0.475,False,False
+3,ijäkäs,пожилой,vahnanaigaine,старинный,0.2048,False,False
+3,ijäkäs,пожилой,vahnu,"cтарый, старинный",0.3795,False,False
+3,ilmanigäine,"старинный, давнишний",kulu,"cтарый, поношенный, подержанный",0.2283,False,False
+3,ilmanigäine,"старинный, давнишний",kulunuh,изношенный,0.3611,False,False
+3,ilmanigäine,"старинный, давнишний",laho,ветхий,0.2528,False,False
+3,ilmanigäine,"старинный, давнишний",ruavas,"cтарый, пожилой",0.196,False,False
+3,ilmanigäine,"старинный, давнишний",vahnanaigaine,старинный,0.1684,False,False
+3,ilmanigäine,"старинный, давнишний",vahnu,"cтарый, старинный",0.2802,False,False
+3,kulu,"cтарый, поношенный, подержанный",kulunuh,изношенный,0.4227,False,False
+3,kulu,"cтарый, поношенный, подержанный",laho,ветхий,0.5327,False,False
+3,kulu,"cтарый, поношенный, подержанный",ruavas,"cтарый, пожилой",0.3873,False,False
+3,kulu,"cтарый, поношенный, подержанный",vahnanaigaine,старинный,0.3162,False,False
+3,kulu,"cтарый, поношенный, подержанный",vahnu,"cтарый, старинный",0.3735,False,False
+3,kulunuh,изношенный,laho,ветхий,0.3915,False,False
+3,kulunuh,изношенный,ruavas,"cтарый, пожилой",0.4632,False,False
+3,kulunuh,изношенный,vahnanaigaine,старинный,0.3376,False,False
+3,kulunuh,изношенный,vahnu,"cтарый, старинный",0.3272,False,False
+3,laho,ветхий,ruavas,"cтарый, пожилой",0.438,False,False
+3,laho,ветхий,vahnanaigaine,старинный,0.5066,False,False
+3,laho,ветхий,vahnu,"cтарый, старинный",0.4292,False,False
+3,ruavas,"cтарый, пожилой",vahnanaigaine,старинный,0.3209,False,False
+3,ruavas,"cтарый, пожилой",vahnu,"cтарый, старинный",0.4892,False,False
+3,vahnanaigaine,старинный,vahnu,"cтарый, старинный",0.373,False,False
+9,julmu,"свирепый, жестокий, лютый",kovasydämelline,"жестокий, грозный",0.1635,False,False
+9,julmu,"свирепый, жестокий, лютый",paha,"злой, недобрый",0.1846,False,False
+9,julmu,"свирепый, жестокий, лютый",suuttunuh,"рассерженный, сердитый",0.3168,False,False
+9,julmu,"свирепый, жестокий, лютый",vihaine,злой,0.2752,False,False
+9,julmu,"свирепый, жестокий, лютый",vihažu,"злой, злобный, гневный, враждебный",0.4047,False,False
+9,julmu,"свирепый, жестокий, лютый",vilu,"чёрствый, неприветливый",0.2135,False,False
+9,kovasydämelline,"жестокий, грозный",paha,"злой, недобрый",0.4697,False,False
+9,kovasydämelline,"жестокий, грозный",suuttunuh,"рассерженный, сердитый",0.4172,False,False
+9,kovasydämelline,"жестокий, грозный",vihaine,злой,0.5139,False,False
+9,kovasydämelline,"жестокий, грозный",vihažu,"злой, злобный, гневный, враждебный",0.3535,False,False
+9,kovasydämelline,"жестокий, грозный",vilu,"чёрствый, неприветливый",0.3116,False,False
+9,paha,"злой, недобрый",suuttunuh,"рассерженный, сердитый",0.2082,False,False
+9,paha,"злой, недобрый",vihaine,злой,0.3873,False,False
+9,paha,"злой, недобрый",vihažu,"злой, злобный, гневный, враждебный",0.2771,False,False
+9,paha,"злой, недобрый",vilu,"чёрствый, неприветливый",0.327,False,False
+9,suuttunuh,"рассерженный, сердитый",vihaine,злой,0.3471,False,False
+9,suuttunuh,"рассерженный, сердитый",vihažu,"злой, злобный, гневный, враждебный",0.4088,False,False
+9,suuttunuh,"рассерженный, сердитый",vilu,"чёрствый, неприветливый",0.2431,False,False
+9,vihaine,злой,vihažu,"злой, злобный, гневный, враждебный",0.4826,False,False
+9,vihaine,злой,vilu,"чёрствый, неприветливый",0.3968,False,False
+9,vihažu,"злой, злобный, гневный, враждебный",vilu,"чёрствый, неприветливый",0.4636,False,False
+10,madal,"низкий, невысокий",pienikazvoine,маленького роста; низкорослый,0.3798,False,False
+12,ahnas,"алчный, жадный",kiškoi,"алчный, коварный",0.3899,False,False
+14,ainavo,"единственный, один",aino,единственный,0.2045,False,False
+18,alalline,длительный,pitky,"долгий, продолжительный",0.278,False,False
+18,alalline,длительный,pitkyaigaine,"длительный, продолжительный; долгосрочны",0.58,False,False
+18,pitky,"долгий, продолжительный",pitkyaigaine,"длительный, продолжительный; долгосрочны",0.3231,False,False
+19,alalline,непрерывный,jatkui,"непрерывный, беспрерывный, постоянный",0.2157,False,False
+21,alaine,нагой,alasti,"голый, нагой",0.2387,False,False
+21,alaine,нагой,alastoi,"голый, нагой",0.2085,False,False
+21,alasti,"голый, нагой",alastoi,"голый, нагой",0.5019,False,False
+25,argu,"робкий, пугливый",varačču,"боязливый, трусливый, робкий",0.5351,False,False
+26,armas,"милый, родной, любимый",armaz,милый,0.4721,False,False
+26,armas,"милый, родной, любимый",kallis,"милый, дорогой",0.5097,False,False
+26,armas,"милый, родной, любимый",kuldaine,"любимый, милый",0.3912,False,False
+26,armas,"милый, родной, любимый",rakas,"милый, любимый",0.3848,False,False
+26,armas,"милый, родной, любимый",suvaittavu,"любимый, предпочитаемый всем остальным",0.3072,False,False
+26,armaz,милый,kallis,"милый, дорогой",0.4467,False,False
+26,armaz,милый,kuldaine,"любимый, милый",0.425,False,False
+26,armaz,милый,rakas,"милый, любимый",0.312,False,False
+26,armaz,милый,suvaittavu,"любимый, предпочитаемый всем остальным",0.2458,False,False
+26,kallis,"милый, дорогой",kuldaine,"любимый, милый",0.342,False,False
+26,kallis,"милый, дорогой",rakas,"милый, любимый",0.3168,False,False
+26,kallis,"милый, дорогой",suvaittavu,"любимый, предпочитаемый всем остальным",0.3059,False,False
+26,kuldaine,"любимый, милый",rakas,"милый, любимый",0.1369,False,False
+26,kuldaine,"любимый, милый",suvaittavu,"любимый, предпочитаемый всем остальным",0.2229,False,False
+26,rakas,"милый, любимый",suvaittavu,"любимый, предпочитаемый всем остальным",0.4174,False,False
+27,arvokas,"ценный, дорогой",hinnatoi,"бесценный, очень дорогой",0.4328,False,False
+27,arvokas,"ценный, дорогой",kallis,"дорогой, дорогостоящий",0.3075,False,False
+27,arvokas,"ценный, дорогой",kalliš,дорогой,0.0322,False,False
+27,hinnatoi,"бесценный, очень дорогой",kallis,"дорогой, дорогостоящий",0.2915,False,False
+27,hinnatoi,"бесценный, очень дорогой",kalliš,дорогой,0.1663,False,False
+27,kallis,"дорогой, дорогостоящий",kalliš,дорогой,0.4909,False,False
+31,kunnolline,"порядочный, честный, хороший",kunnon,"порядочный, честный",0.4021,False,False
+31,kunnolline,"порядочный, честный, хороший",oigei,правдивый,0.3094,False,False
+31,kunnon,"порядочный, честный",oigei,правдивый,0.2921,False,False
+34,bohattu,богатый,elokas,"богатый, состоятельный",0.3905,False,False
+34,bohattu,богатый,rikas,богатый,0.4261,False,False
+34,elokas,"богатый, состоятельный",rikas,богатый,0.3702,False,False
+35,boikoi,"бойкий, быстрый; ловкий; резвый, живой",elävy,живой,0.2205,False,False
+35,boikoi,"бойкий, быстрый; ловкий; резвый, живой",eläw,живой,0.3847,False,False
+35,boikoi,"бойкий, быстрый; ловкий; резвый, живой",eläy,живой,0.0409,False,False
+35,boikoi,"бойкий, быстрый; ловкий; резвый, живой",kirkei,"бойкий, проворный",0.4658,False,False
+35,boikoi,"бойкий, быстрый; ловкий; резвый, живой",kirmei,"бойкий, резвый, проворный",0.4261,False,False
+35,boikoi,"бойкий, быстрый; ловкий; резвый, живой",menii,"резвый, бойкий",0.3758,False,False
+35,boikoi,"бойкий, быстрый; ловкий; резвый, живой",ravei,"бойкий, быстрый, резвый",0.549,False,False
+35,elävy,живой,eläw,живой,0.2062,False,False
+35,elävy,живой,eläy,живой,0.371,False,False
+35,elävy,живой,kirkei,"бойкий, проворный",0.3273,False,False
+35,elävy,живой,kirmei,"бойкий, резвый, проворный",0.4487,False,False
+35,elävy,живой,menii,"резвый, бойкий",0.2717,False,False
+35,elävy,живой,ravei,"бойкий, быстрый, резвый",0.3314,False,False
+35,eläw,живой,eläy,живой,0.3148,False,False
+35,eläw,живой,kirkei,"бойкий, проворный",0.3382,False,False
+35,eläw,живой,kirmei,"бойкий, резвый, проворный",0.2523,False,False
+35,eläw,живой,menii,"резвый, бойкий",0.299,False,False
+35,eläw,живой,ravei,"бойкий, быстрый, резвый",0.3321,False,False
+35,eläy,живой,kirkei,"бойкий, проворный",0.3182,False,False
+35,eläy,живой,kirmei,"бойкий, резвый, проворный",0.3837,False,False
+35,eläy,живой,menii,"резвый, бойкий",0.1065,False,False
+35,eläy,живой,ravei,"бойкий, быстрый, резвый",0.3504,False,False
+35,kirkei,"бойкий, проворный",kirmei,"бойкий, резвый, проворный",0.5966,False,False
+35,kirkei,"бойкий, проворный",menii,"резвый, бойкий",0.2533,False,False
+35,kirkei,"бойкий, проворный",ravei,"бойкий, быстрый, резвый",0.4297,False,False
+35,kirmei,"бойкий, резвый, проворный",menii,"резвый, бойкий",0.2281,False,False
+35,kirmei,"бойкий, резвый, проворный",ravei,"бойкий, быстрый, резвый",0.5659,True,False
+35,menii,"резвый, бойкий",ravei,"бойкий, быстрый, резвый",0.2618,False,False
+36,boikoi,"бойкий, быстрый; ловкий; резвый, живой",elävy,"оживлённый, подвижный",0.2205,False,False
+36,boikoi,"бойкий, быстрый; ловкий; резвый, живой",eläy,"оживлённый, подвижный",0.0409,False,False
+36,boikoi,"бойкий, быстрый; ловкий; резвый, живой",kirkei,"бойкий, проворный",0.4658,False,False
+36,boikoi,"бойкий, быстрый; ловкий; резвый, живой",kirmei,"бойкий, резвый, проворный",0.4261,False,False
+36,boikoi,"бойкий, быстрый; ловкий; резвый, живой",liikkui,"подвижный, перемещающийся",0.3256,False,False
+36,boikoi,"бойкий, быстрый; ловкий; резвый, живой",menii,"резвый, бойкий",0.3758,False,False
+36,boikoi,"бойкий, быстрый; ловкий; резвый, живой",ravei,"бойкий, быстрый, резвый",0.549,False,False
+36,elävy,"оживлённый, подвижный",eläy,"оживлённый, подвижный",0.371,False,False
+36,elävy,"оживлённый, подвижный",kirkei,"бойкий, проворный",0.3273,False,False
+36,elävy,"оживлённый, подвижный",kirmei,"бойкий, резвый, проворный",0.4487,False,False
+36,elävy,"оживлённый, подвижный",liikkui,"подвижный, перемещающийся",0.467,False,False
+36,elävy,"оживлённый, подвижный",menii,"резвый, бойкий",0.2717,False,False
+36,elävy,"оживлённый, подвижный",ravei,"бойкий, быстрый, резвый",0.3314,False,False
+36,eläy,"оживлённый, подвижный",kirkei,"бойкий, проворный",0.3182,False,False
+36,eläy,"оживлённый, подвижный",kirmei,"бойкий, резвый, проворный",0.3837,False,False
+36,eläy,"оживлённый, подвижный",liikkui,"подвижный, перемещающийся",0.2652,False,False
+36,eläy,"оживлённый, подвижный",menii,"резвый, бойкий",0.1065,False,False
+36,eläy,"оживлённый, подвижный",ravei,"бойкий, быстрый, резвый",0.3504,False,False
+36,kirkei,"бойкий, проворный",kirmei,"бойкий, резвый, проворный",0.5966,False,False
+36,kirkei,"бойкий, проворный",liikkui,"подвижный, перемещающийся",0.242,False,False
+36,kirkei,"бойкий, проворный",menii,"резвый, бойкий",0.2533,False,False
+36,kirkei,"бойкий, проворный",ravei,"бойкий, быстрый, резвый",0.4297,False,False
+36,kirmei,"бойкий, резвый, проворный",liikkui,"подвижный, перемещающийся",0.328,False,False
+36,kirmei,"бойкий, резвый, проворный",menii,"резвый, бойкий",0.2281,False,False
+36,kirmei,"бойкий, резвый, проворный",ravei,"бойкий, быстрый, резвый",0.5659,True,False
+36,liikkui,"подвижный, перемещающийся",menii,"резвый, бойкий",0.3117,False,False
+36,liikkui,"подвижный, перемещающийся",ravei,"бойкий, быстрый, резвый",0.3744,False,False
+36,menii,"резвый, бойкий",ravei,"бойкий, быстрый, резвый",0.2618,False,False
+38,ahnas,"алчный, жадный",kiškoi,"алчный, коварный",0.3899,False,False
+41,erinomaine,"необычный, особый",harvinaine,"редкий, необычный",0.4141,False,False
+41,erinomaine,"необычный, особый",kukas,"удивительный, необычный",0.3465,False,False
+41,erinomaine,"необычный, особый",kummalline,"странный, удивительный",0.3272,False,False
+41,harvinaine,"редкий, необычный",kukas,"удивительный, необычный",0.4002,False,False
+41,harvinaine,"редкий, необычный",kummalline,"странный, удивительный",0.4321,False,False
+41,kukas,"удивительный, необычный",kummalline,"странный, удивительный",0.346,False,False
+48,korgei,высокий,pitky,высокий,0.4415,False,False
+48,korgei,высокий,suuri,высокий,0.3448,False,False
+48,pitky,высокий,suuri,высокий,0.2976,False,False
+49,lašku,ленивый,pattii,ленивый,0.4101,False,False
+50,ahker,"прилежный, старательный, трудолюбивый",ruadai,"трудолюбивый, работящий",0.4418,False,False
+56,ilokas,"весёлый, забавный, радостный",iložu,"весёлый, радостный",0.6301,False,False
+56,ilokas,"весёлый, забавный, радостный",vessel,"весёлый, радостный, приятный",0.5214,False,False
+56,iložu,"весёлый, радостный",vessel,"весёлый, радостный, приятный",0.5049,False,False
+57,enzi,первый,enzimäine,первый; передний,0.3823,False,False
+57,enzi,первый,ezmäine,первый,0.2165,False,False
+57,enzimäine,первый; передний,ezmäine,первый,0.5194,True,False
+58,eri,"разный, иной, другой",erilaine,"неодинаковый, разный",0.3993,False,False
+58,eri,"разный, иной, другой",erilline,"специальный, особый; специфический",0.221,False,False
+58,eri,"разный, иной, другой",eriluaduine,"различный, разный",0.3206,False,False
+58,erilaine,"неодинаковый, разный",erilline,"специальный, особый; специфический",0.3534,False,False
+58,erilaine,"неодинаковый, разный",eriluaduine,"различный, разный",0.6116,False,False
+58,erilline,"специальный, особый; специфический",eriluaduine,"различный, разный",0.4236,False,False
+59,eri,"особенный, особый",erilaine,"специальный, особый",0.3993,False,False
+59,eri,"особенный, особый",erilline,"специальный, особый; специфический",0.221,False,False
+59,eri,"особенный, особый",eriluaduine,"особый, специфический",0.3206,False,False
+59,eri,"особенный, особый",erinomaine,"необычный, особый",0.2376,False,False
+59,eri,"особенный, особый",sanottavu,"значительный, особенный",0.263,False,False
+59,eri,"особенный, особый",toizenmoine,"особый, иного вида",0.2522,False,False
+59,erilaine,"специальный, особый",erilline,"специальный, особый; специфический",0.3534,False,False
+59,erilaine,"специальный, особый",eriluaduine,"особый, специфический",0.6116,False,False
+59,erilaine,"специальный, особый",erinomaine,"необычный, особый",0.4778,False,False
+59,erilaine,"специальный, особый",sanottavu,"значительный, особенный",0.3218,False,False
+59,erilaine,"специальный, особый",toizenmoine,"особый, иного вида",0.6274,False,False
+59,erilline,"специальный, особый; специфический",eriluaduine,"особый, специфический",0.4236,False,False
+59,erilline,"специальный, особый; специфический",erinomaine,"необычный, особый",0.4495,False,False
+59,erilline,"специальный, особый; специфический",sanottavu,"значительный, особенный",0.4644,False,False
+59,erilline,"специальный, особый; специфический",toizenmoine,"особый, иного вида",0.3406,False,False
+59,eriluaduine,"особый, специфический",erinomaine,"необычный, особый",0.534,False,False
+59,eriluaduine,"особый, специфический",sanottavu,"значительный, особенный",0.2972,False,False
+59,eriluaduine,"особый, специфический",toizenmoine,"особый, иного вида",0.5838,False,False
+59,erinomaine,"необычный, особый",sanottavu,"значительный, особенный",0.2755,False,False
+59,erinomaine,"необычный, особый",toizenmoine,"особый, иного вида",0.6068,True,False
+59,sanottavu,"значительный, особенный",toizenmoine,"особый, иного вида",0.2973,False,False
+68,hapannuh,гнилой,laho,"гнилой, трухлявый",0.5639,False,False
+70,harvinaine,"редкий, необычный",harvu,"редкий, нечастый",0.35,False,False
+72,heikko,слабый,paha,"плохой, слабый",0.4198,False,False
+72,heikko,слабый,tyhjy,слабый (о человеке),0.3623,False,False
+72,heikko,слабый,vaivaine,"слабый, увечный",0.3809,False,False
+72,paha,"плохой, слабый",tyhjy,слабый (о человеке),0.35,False,False
+72,paha,"плохой, слабый",vaivaine,"слабый, увечный",0.3347,False,False
+72,tyhjy,слабый (о человеке),vaivaine,"слабый, увечный",0.1951,False,False
+74,helei,"звонкий, звучный",helevy,"звонкий, звучный; ясный",0.5417,False,False
+74,helei,"звонкий, звучный",kuulužu,звучный,0.4079,False,False
+74,helevy,"звонкий, звучный; ясный",kuulužu,звучный,0.2973,False,False
+75,helly,"нежный, ласковый",hyvä,"добрый, ласковый",0.4321,False,False
+75,helly,"нежный, ласковый",luaskavu,ласковый,0.6155,False,False
+75,helly,"нежный, ласковый",sula,"ласковый, добрый",0.4391,False,False
+75,hyvä,"добрый, ласковый",luaskavu,ласковый,0.5521,True,False
+75,hyvä,"добрый, ласковый",sula,"ласковый, добрый",0.339,False,False
+75,luaskavu,ласковый,sula,"ласковый, добрый",0.4062,False,False
+76,helly,"чувствительный, склонный (к чему-л.)",herky,"чуткий, чувствительный, восприимчивый",0.4186,False,False
+78,helpo,"лёгкий, нетрудный",hoivu,"лёгкий, нетрудный",0.3374,False,False
+78,helpo,"лёгкий, нетрудный",kebjei,нетрудный,0.6171,True,False
+78,helpo,"лёгкий, нетрудный",prostoi,нетрудный,0.4537,False,False
+78,hoivu,"лёгкий, нетрудный",kebjei,нетрудный,0.4365,False,False
+78,hoivu,"лёгкий, нетрудный",prostoi,нетрудный,0.3542,False,False
+78,kebjei,нетрудный,prostoi,нетрудный,0.4361,False,False
+83,hiilavu,горячий,palavu,"горячий, жгущий",0.3589,False,False
+83,hiilavu,горячий,palaw,горячий,0.4579,False,False
+83,palavu,"горячий, жгущий",palaw,горячий,0.1811,False,False
+84,madal,"низкий, тихий (голос)",tyyni,"тихий, спокойный",0.4479,False,False
+87,laho,ветхий,valeh,"непрочный, ненадёжный",0.2159,False,False
+88,huigei,"постыдный, неприличный",huono,"плохой, дурной, скверный; неблагоприятны",0.3523,False,False
+88,huigei,"постыдный, неприличный",paha,"плохой, нехороший, дурной",0.4886,False,False
+88,huigei,"постыдный, неприличный",tuhmu,"неприличный, развязный",0.4029,False,False
+88,huono,"плохой, дурной, скверный; неблагоприятны",paha,"плохой, нехороший, дурной",0.3804,False,False
+88,huono,"плохой, дурной, скверный; неблагоприятны",tuhmu,"неприличный, развязный",0.2415,False,False
+88,paha,"плохой, нехороший, дурной",tuhmu,"неприличный, развязный",0.4725,False,False
+91,herky,"чуткий, отзывчивый",huolekas,"заботливый, внимательный, отзывчивый",0.3168,False,False
+91,herky,"чуткий, отзывчивый",tarku,внимательный,0.4097,False,False
+91,huolekas,"заботливый, внимательный, отзывчивый",tarku,внимательный,0.4434,False,False
+92,huomenine,завтрашний,ielline,"будущий, предстоящий",0.3115,False,False
+92,huomenine,завтрашний,tulii,"будущий, грядущий, следующий",0.2848,False,False
+92,huomenine,завтрашний,uuzi,"новый, будущий",0.2445,False,False
+92,ielline,"будущий, предстоящий",tulii,"будущий, грядущий, следующий",0.3628,False,False
+92,ielline,"будущий, предстоящий",uuzi,"новый, будущий",0.2788,False,False
+92,tulii,"будущий, грядущий, следующий",uuzi,"новый, будущий",0.4051,False,False
+96,alalline,постоянный,iguine,вечный,0.417,False,False
+96,alalline,постоянный,igähine,вечный,0.4206,False,False
+96,alalline,постоянный,igäine,вечный,0.29,False,False
+96,alalline,постоянный,ilmanigäine,вечный; вековой,0.3699,False,False
+96,alalline,постоянный,jatkui,"непрерывный, беспрерывный, постоянный",0.2157,False,False
+96,iguine,вечный,igähine,вечный,0.4706,False,False
+96,iguine,вечный,igäine,вечный,0.5247,False,False
+96,iguine,вечный,ilmanigäine,вечный; вековой,0.4487,False,False
+96,iguine,вечный,jatkui,"непрерывный, беспрерывный, постоянный",0.2021,False,False
+96,igähine,вечный,igäine,вечный,0.5528,False,False
+96,igähine,вечный,ilmanigäine,вечный; вековой,0.5033,False,False
+96,igähine,вечный,jatkui,"непрерывный, беспрерывный, постоянный",0.2635,False,False
+96,igäine,вечный,ilmanigäine,вечный; вековой,0.3927,False,False
+96,igäine,вечный,jatkui,"непрерывный, беспрерывный, постоянный",0.2961,False,False
+96,ilmanigäine,вечный; вековой,jatkui,"непрерывный, беспрерывный, постоянный",0.1648,False,False
